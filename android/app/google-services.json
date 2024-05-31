@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375751433107",
+    "project_id": "flixstreaming-d7054",
+    "storage_bucket": "flixstreaming-d7054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375751433107:android:ad10fca367d575a4886666",
+        "android_client_info": {
+          "package_name": "com.example.netlfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDmCEozW_dZAiY6fYvngzfVeJRej4LBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
